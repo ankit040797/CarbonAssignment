@@ -45,7 +45,7 @@ The SmartAPI Integration project is a Java Spring Boot application designed to p
 ### Swagger Documentation
 
 - **Swagger UI**:
-  - Accessible at: `/swagger-ui.html`
+  - Accessible at: `http://localhost:8081/swagger-ui/index.html`
   - Description: Interactive API documentation generated using Swagger, providing clear documentation of all API endpoints, request parameters, and responses.
 
 ## Technologies Used
